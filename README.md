@@ -2,7 +2,7 @@
 
 Young Adults with Special Health Care Needs (YASHCN) have chronic medical needs arising during childhood. During emerging adulthood, YASHCN face decisions in several contexts like education, relationships, and healthcare. YASHCN have increased medical complications during this time, especially without healthcare transition (HCT) support. Engagement in medical decisions may be an important component of transition readiness, the capacity to successfully transfer from pediatric to adult care. Most described HCT programs focus on certain conditions or exclude others like intellectual and developmental disabilities (IDD). Thus, we explore decision-making in a broader population of YASHCN in a structured HCT program. 
 
-## SpecifiC Aims 
+## Specific Aims 
 1)	Describe YASHCNs’ perspectives on decision-making involvement during transfer from pediatric to adult care.
 2)	Compare perspectives on decision-making among YASHCNs with and without IDD. 
 3)	Explore YASHCN’s perspectives on decision-making in healthcare and non-healthcare contexts.
